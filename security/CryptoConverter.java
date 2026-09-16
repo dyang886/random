@@ -4,7 +4,6 @@ import jakarta.annotation.PostConstruct;
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
 
 @Converter
 @Component
